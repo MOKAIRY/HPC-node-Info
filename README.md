@@ -27,7 +27,7 @@ The output is saved as a `.log` file named after the node's hostname.
 ```
 2. **Make the script executable:**
 ```bash
-chmod +x node_report.sh
+chmod +x node_info.sh
 ```
 3. **Run the script:**
 ```bash
